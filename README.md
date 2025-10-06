@@ -57,15 +57,17 @@ A seguir, os principais prompts utilizados para dar vida a este projeto.
 - **/output**: Contém a versão final do e-book em formato PDF, pronto para leitura.
 - **README.md**: Este arquivo que você está lendo, com a documentação do projeto.
 
-## 👨‍💻 Sobre o Autor
+## 👨‍💻 Autor
 
-**Paulo G. Werneck**
+| [<img src="https://avatars.githubusercontent.com/u/78171565?v=4" width=115><br><sub>Paulo  G.  Werneck</sub>](https://github.com/5kr1pt) |
+| :--------------------------------------------------------------------------------------------------------------------------------------: |
 
-* [GitHub]([https://github.com/5kr1pt/])
-* [LinkedIn]([https://www.linkedin.com/in/pgw-script])
+Feito por Paulo G. Werneck.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pgw-script/)
+[![Portifólio](https://img.shields.io/badge/Portifólio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://5kr1pt.github.io/krpt)
 
 ---
-*Projeto desenvolvido para o bootcamp da DIO.*
 
 ## 📜 Licença
 
