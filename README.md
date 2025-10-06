@@ -47,7 +47,8 @@ A seguir, os principais prompts utilizados para dar vida a este projeto.
   
   - **Capa:** *Um anzol de pesca fisgando um cursor de mouse, em um fundo digital. O título é "NÃO MORDA A ISCA". Estilo de arte em quadrinhos (comic book style), cores vibrantes e traços bem definidos.*
   - **Personagem em Pânico:** *Um jovem em pânico na frente de um computador que exibe um grande símbolo de alerta amarelo, com balões de exclamação sobre sua cabeça. Seus cabelos estão bagunçados e ele está com as mãos na cabeça. Estilo de arte cartoon/quadrinhos.* 
-  - **Tela de Ransomware:** *Uma tela de computador exibindo uma mensagem de resgate assustadora com o texto "SEUS ARQUIVOS ESTÃO CRIPTOGRAFADOS E EXTRAIMOS TODOS OS DADOS E SENHAS", em um estilo de alerta vermelho e preto.* 
+  - **Tela de Ransomware:** *Uma tela de computador exibindo uma mensagem de resgate assustadora com o texto "SEUS ARQUIVOS ESTÃO CRIPTOGRAFADOS E EXTRAIMOS TODOS OS DADOS E SENHAS", em um estilo de alerta vermelho e preto.*
+  - **PNGs/Desenhos**: *Cada elemento da imagem solicito que remova o fundo e gere variações para eu utilizar separadamente*
 
 </details>
 
